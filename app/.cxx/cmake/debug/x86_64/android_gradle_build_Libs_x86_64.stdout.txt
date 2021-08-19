@@ -1,0 +1,11 @@
+ninja: Entering directory `D:\Desktop\Android\#Projects\Native-Encrypt-master\app\.cxx\cmake\debug\x86_64'
+[1/6] Building C object CMakeFiles/Libs.dir/src/main/cpp/aes.c.o
+[2/6] Building CXX object CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o
+[3/6] Building CXX object CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o
+[4/6] Building CXX object CMakeFiles/Libs.dir/src/main/cpp/Utils.cpp.o
+[5/6] Building CXX object CMakeFiles/Libs.dir/src/main/cpp/EncodeUtils.cpp.o
+../../../../src/main/cpp/EncodeUtils.cpp:55:21: warning: expression result unused [-Wunused-value]
+    result[lenOffset];
+    ~~~~~~ ~~~~~~~~~^
+1 warning generated.
+[6/6] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\x86_64\libLibs.so

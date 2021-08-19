@@ -1,0 +1,16 @@
+# ninja log v5
+26	197	634399878	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	a414b9d5674dfe2c
+1	271	634399878	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	8273ab2214e14055
+19	275	634399878	CMakeFiles/Libs.dir/src/main/cpp/Utils.cpp.o	e7e9cc49dc74f982
+5	290	634399878	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	d3e43dcb79645916
+9	295	634399878	CMakeFiles/Libs.dir/src/main/cpp/md5.cpp.o	8f9b6a2021d2d7fe
+14	295	634399878	CMakeFiles/Libs.dir/src/main/cpp/EncodeUtils.cpp.o	6da66b041ca5b78
+295	538	634399878	../../../../build/intermediates/cmake/debug/obj/x86_64/libLibs.so	6ea95a989e34418c
+2	147	634408401	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	d3e43dcb79645916
+147	277	634408401	../../../../build/intermediates/cmake/debug/obj/x86_64/libLibs.so	6ea95a989e34418c
+12	171	634479853	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	a414b9d5674dfe2c
+8	240	634479854	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	8273ab2214e14055
+4	242	634479854	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	d3e43dcb79645916
+21	248	634479854	CMakeFiles/Libs.dir/src/main/cpp/Utils.cpp.o	e7e9cc49dc74f982
+16	254	634479854	CMakeFiles/Libs.dir/src/main/cpp/EncodeUtils.cpp.o	6da66b041ca5b78
+254	503	634479854	../../../../build/intermediates/cmake/debug/obj/x86_64/libLibs.so	6ea95a989e34418c

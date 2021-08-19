@@ -1,0 +1,15 @@
+别名: alias-key
+创建日期: 2017-9-19
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=1, OU=1, O=1, L=1, ST=1, C=1
+发布者: CN=1, OU=1, O=1, L=1, ST=1, C=1
+序列号: 31c1fe8b
+有效期开始日期: Tue Sep 19 11:38:12 CST 2017, 截止日期: Sat Sep 13 11:38:12 CST 2042
+证书指纹:
+         MD5: 42:1E:B8:4C:8B:CA:4C:CC:DC:72:E4:4E:F4:30:CD:12
+         SHA1: B3:88:ED:E8:DF:16:C9:3F:F8:DE:51:AB:AE:E1:8B:F7:16:3D:4A:BF
+         SHA256: EA:4D:95:5F:04:BF:4D:7E:DF:58:FF:3B:CC:0F:FE:F5:BF:E1:BF:B8:CB:D2:45:4A:36:6C:DA:32:17:CC:08:9C
+         签名算法名称: SHA256withRSA
+         版本: 3

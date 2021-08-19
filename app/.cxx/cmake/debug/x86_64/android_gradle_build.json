@@ -1,0 +1,73 @@
+{
+  "stringTable": {
+    "0": "D:/Desktop/Android/#Projects/Native-Encrypt-master/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android --gcc-toolchain=D:/AndroidDevelopment/ndk/16.1.4479499/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidDevelopment/ndk/16.1.4479499/sysroot -DLibs_EXPORTS -isystem D:/AndroidDevelopment/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem D:/AndroidDevelopment/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem D:/AndroidDevelopment/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem D:/AndroidDevelopment/ndk/16.1.4479499/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=x86_64-none-linux-android --gcc-toolchain=D:/AndroidDevelopment/ndk/16.1.4479499/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidDevelopment/ndk/16.1.4479499/sysroot -DLibs_EXPORTS -isystem D:/AndroidDevelopment/ndk/16.1.4479499/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Libs-Debug-x86_64": {
+      "buildCommand": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\debug\\x86_64\" Libs",
+      "buildType": "debug",
+      "toolchain": "329906496",
+      "abi": "x86_64",
+      "artifactName": "Libs",
+      "files": [
+        {
+          "src": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\src\\main\\cpp\\secure-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\src\\main\\cpp\\EnvChecker.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\src\\main\\cpp\\EncodeUtils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\src\\main\\cpp\\md5.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\src\\main\\cpp\\Utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\src\\main\\cpp\\aes.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libLibs.so",
+      "runtimeFiles": [
+        "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\libgnustl_static.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "329906496": {
+      "cCompilerExecutable": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

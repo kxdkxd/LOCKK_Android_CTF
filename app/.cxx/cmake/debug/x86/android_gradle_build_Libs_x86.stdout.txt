@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\Desktop\Android\#Projects\Native-Encrypt-master\app\.cxx\cmake\debug\x86'
+[1/2] Building C object CMakeFiles/Libs.dir/src/main/cpp/aes.c.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\x86\libLibs.so

@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Libs-Release-x86_64": {
+      "artifactName": "Libs",
+      "buildCommand": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64\" Libs",
+      "abi": "x86_64",
+      "output": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libLibs.so",
+      "runtimeFiles": [
+        "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\libgnustl_static.a"
+      ]
+    }
+  }
+}

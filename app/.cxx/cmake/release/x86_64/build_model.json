@@ -1,0 +1,228 @@
+{
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64",
+    "cmakeServerLogFile": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cxx\\release\\x86_64",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64",
+      "cmakeToolchain": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "variables": [
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\prefab\\x86_64\\prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Release"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\build\\cmake\\android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "D:\\AndroidDevelopment\\ndk\\16.1.4479499"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-21"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "D:\\AndroidDevelopment\\ndk\\16.1.4479499"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "21"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\x86_64",
+  "variant": {
+    "buildSystemArgumentList": [],
+    "buildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      ""
+    ],
+    "isDebuggableEnabled": false,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "D:\\AndroidDevelopment\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+      },
+      "cmakeToolchainFile": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\build\\intermediates",
+      "makeFile": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\build.gradle",
+      "moduleRootFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "D:\\AndroidDevelopment\\ndk\\16.1.4479499",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI",
+          "bitness": 32,
+          "deprecated": true,
+          "default": false
+        },
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "MIPS",
+          "bitness": 32,
+          "deprecated": true,
+          "default": false
+        },
+        {
+          "abi": "MIPS64",
+          "bitness": 64,
+          "deprecated": true,
+          "default": false
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkSupportedAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "MIPS",
+        "MIPS64",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "GNUSTL_STATIC",
+      "ndkVersion": "16.1.4479499",
+      "project": {
+        "compilerSettingsCacheFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\.cxx",
+        "cxxFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master",
+        "sdkFolder": "D:\\AndroidDevelopment",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\libgnustl_shared.so",
+          "ARMEABI_V7A": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\libgnustl_shared.so",
+          "ARM64_V8A": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\libgnustl_shared.so",
+          "MIPS": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips\\libgnustl_shared.so",
+          "MIPS64": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips64\\libgnustl_shared.so",
+          "X86": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\libgnustl_shared.so",
+          "X86_64": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
+        "LIBCXX_SHARED": {
+          "ARMEABI": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\armeabi\\libc++_shared.so",
+          "ARMEABI_V7A": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\armeabi-v7a\\libc++_shared.so",
+          "ARM64_V8A": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\arm64-v8a\\libc++_shared.so",
+          "MIPS": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\mips\\libc++_shared.so",
+          "MIPS64": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\mips64\\libc++_shared.so",
+          "X86": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\x86\\libc++_shared.so",
+          "X86_64": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\llvm-libc++\\libs\\x86_64\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\armeabi\\libstlport_shared.so",
+          "ARMEABI_V7A": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\armeabi-v7a\\libstlport_shared.so",
+          "ARM64_V8A": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\arm64-v8a\\libstlport_shared.so",
+          "MIPS": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\mips\\libstlport_shared.so",
+          "MIPS64": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\mips64\\libstlport_shared.so",
+          "X86": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\x86\\libstlport_shared.so",
+          "X86_64": "D:\\AndroidDevelopment\\ndk\\16.1.4479499\\sources\\cxx-stl\\stlport\\libs\\x86_64\\libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\build\\intermediates\\cmake\\release\\obj",
+    "variantName": "release",
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "prefabDirectory": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "D:\\Desktop\\Android\\#Projects\\Native-Encrypt-master\\app\\.cxx\\cmake\\release\\prefab\\x86_64"
+}

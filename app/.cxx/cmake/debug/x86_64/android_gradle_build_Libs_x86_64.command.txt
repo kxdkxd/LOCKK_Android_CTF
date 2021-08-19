@@ -1,0 +1,7 @@
+Executable : D:\AndroidDevelopment\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Desktop\Android\#Projects\Native-Encrypt-master\app\.cxx\cmake\debug\x86_64
+Libs
+jvmArgs : 
+

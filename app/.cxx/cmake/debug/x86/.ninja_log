@@ -1,0 +1,10 @@
+# ninja log v5
+23	239	634544440	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	8c337f55608d9f2d
+36	279	634544440	CMakeFiles/Libs.dir/src/main/cpp/md5.cpp.o	7645989136c2de6
+6	282	634544440	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	e09222ce2008e1d2
+0	298	634544440	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	836164ddd3f0073b
+12	306	634544440	CMakeFiles/Libs.dir/src/main/cpp/EncodeUtils.cpp.o	d0c52d1cf12c375c
+18	321	634544440	CMakeFiles/Libs.dir/src/main/cpp/Utils.cpp.o	b33fd05d628a40de
+321	439	634544441	../../../../build/intermediates/cmake/debug/obj/x86/libLibs.so	357c2464e638fc11
+2	102	634550021	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	8c337f55608d9f2d
+102	226	634550021	../../../../build/intermediates/cmake/debug/obj/x86/libLibs.so	357c2464e638fc11
